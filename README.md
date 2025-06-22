@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 https://google.com
-https://lingo.vercel.app
+https://lingo-clone.vercel.app
 https://hiroringo.onrender.com
 https://dashboard.render.com/email-confirm/?token=aFkwnnVzci1kMWJ0dTZnZGwzcHM3M2YyNDk0MKy2z0WjzTYQZzKIHcqpnIYxL7cRaN2YO54qrqSyaH-m
 # Lingo - Interactive platform for language learning.
